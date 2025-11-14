@@ -1,11 +1,10 @@
-## Hi, I'm Nguyen
+## Hi, I'm Nguyen  
 Engineer working on MCU firmware and AI applications on Linux-based embedded systems.
 
 ## About Me
-- Interested in **Embedded Linux**, **MCU programming**, and **IoT systems**.
-- Practical experience with **C/C++**, **Python**, and deploying **AI models** on low-power hardware.
-- Focused on building efficient, maintainable solutions for **Edge AI** and **embedded applications**.
-- Continuously learning and improving my engineering workflow.
+- Interested in Embedded Linux, MCU programming, and IoT systems.  
+- Experience with C/C++, Python, and deploying AI models on low-power hardware.  
+- Focus on efficient and maintainable solutions for Edge AI and embedded applications.  
 
 ## What I Work With
 ### Embedded & System Development
@@ -18,11 +17,14 @@ Engineer working on MCU firmware and AI applications on Linux-based embedded sys
 - Image processing & computer vision  
 - Optimizing models for edge devices  
 
-### Tools & Technologies
+## Tools & Technologies
 - Git | Linux | Bash  
 - Python | OpenCV  
-- VSCode | CMake | GCC/Clang
+- VSCode | CMake | GCC/Clang  
 - STM32CubeIDE | STM32CubeMX | ST-Link Utility  
+
+## Projects
+-
 
 ## Current Goals
 - Improving low-level programming and embedded software architecture  
