@@ -1,6 +1,5 @@
 ## Hi, I'm Nguyen
-I’m developing my skills in **Embedded Systems** through real-world projects with  
-**microcontrollers (MCU)** and **AI deployment on Linux-based embedded devices**.
+Engineer working on MCU firmware and AI applications on Linux-based embedded systems.
 
 ## About Me
 - Interested in **Embedded Linux**, **MCU programming**, and **IoT systems**.
