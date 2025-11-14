@@ -12,7 +12,6 @@ Engineer working on MCU firmware and AI applications on Linux-based embedded sys
 - C/C++ for microcontrollers  
 - STM32, ESP32, and similar MCU platforms  
 - Embedded Linux environments  
-- Driver-level and hardware-near programming  
 
 ### AI on Embedded Systems
 - Deploying AI models on Linux SBCs  
@@ -22,8 +21,8 @@ Engineer working on MCU firmware and AI applications on Linux-based embedded sys
 ### Tools & Technologies
 - Git | Linux | Bash  
 - Python | OpenCV  
-- VSCode | CMake | GCC/Clang  
-- Docker (basic)  
+- VSCode | CMake | GCC/Clang
+- STM32CubeIDE | STM32CubeMX | ST-Link Utility  
 
 ## Current Goals
 - Improving low-level programming and embedded software architecture  
