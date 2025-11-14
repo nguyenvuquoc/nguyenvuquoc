@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Nguyen
+I’m developing my skills in **Embedded Systems** through real-world projects with  
+**microcontrollers (MCU)** and **AI deployment on Linux-based embedded devices**.
 
-<!--
-**nguyenvuquoc/nguyenvuquoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Interested in **Embedded Linux**, **MCU programming**, and **IoT systems**.
+- Practical experience with **C/C++**, **Python**, and deploying **AI models** on low-power hardware.
+- Focused on building efficient, maintainable solutions for **Edge AI** and **embedded applications**.
+- Continuously learning and improving my engineering workflow.
 
-Here are some ideas to get you started:
+## What I Work With
+### Embedded & System Development
+- C/C++ for microcontrollers  
+- STM32, ESP32, and similar MCU platforms  
+- Embedded Linux environments  
+- Driver-level and hardware-near programming  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI on Embedded Systems
+- Deploying AI models on Linux SBCs  
+- Image processing & computer vision  
+- Optimizing models for edge devices  
+
+### Tools & Technologies
+- Git | Linux | Bash  
+- Python | OpenCV  
+- VSCode | CMake | GCC/Clang  
+- Docker (basic)  
+
+## Current Goals
+- Improving low-level programming and embedded software architecture  
+- Enhancing performance optimization for AI on constrained hardware  
+- Building robust IoT and Edge AI applications  
